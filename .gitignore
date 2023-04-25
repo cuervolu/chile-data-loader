@@ -1,0 +1,22 @@
+# Ignorar archivos de configuración local
+.env
+config.ini
+
+# Ignorar archivos de caché
+__pycache__/
+*.pyc
+target/
+
+# Ignorar directorios de entornos virtuales
+venv/
+.venv/
+
+# Ignorar archivos y directorios generados automáticamente por IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de resultados de pruebas
+test_results/
